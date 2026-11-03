@@ -1,0 +1,10 @@
+# Zona de ejemplo para "Cargar zona .txt…"
+# NODOS <nombres sin espacios>
+# FILA <nombre> <n distancias en km>   (matriz simétrica, diagonal 0)
+NODOS Bodega Cliente1 Cliente2 Cliente3 Cliente4 Cliente5
+FILA Bodega    0  8 14 10 12  9
+FILA Cliente1  8  0  7 15 18 11
+FILA Cliente2 14  7  0  9 16 17
+FILA Cliente3 10 15  9  0  6 13
+FILA Cliente4 12 18 16  6  0  5
+FILA Cliente5  9 11 17 13  5  0
